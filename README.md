@@ -1,6 +1,3 @@
-My thoughts as I develop Solve Guide.
-
-
 Every issue can be solved.
 
 Every single issue, in the world, can be solved.
