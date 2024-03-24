@@ -1,3 +1,5 @@
+## What is a Solve Guide & Why An I Trying To Build One?
+
 Every issue can be solved.
 
 Every single issue, in the world, can be solved.
