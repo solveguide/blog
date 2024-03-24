@@ -1,4 +1,4 @@
-## What is a Solve Guide & Why Am I Trying To Build One?
+## What is a Solve Guide & Why Am I Trying To Build One? 
 
 Every issue can be solved.
 
