@@ -25,7 +25,7 @@ Acceptance was an instant solution to EVERY issue! I didn't need to stop the cac
 **If:**
 
 Reality + Perspective = Issues
-&
+
 Nirvana = Reality - Issues
 
 **Then:**
