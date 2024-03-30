@@ -6,8 +6,6 @@ categories: [101]
 tags: [journal]
 ---
 
-## What is a Solve Guide & Why Am I Trying To Build One? 
-
 Every issue can be solved.
 
 Every single issue, in the world, can be solved.
