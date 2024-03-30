@@ -1,3 +1,11 @@
+---
+layout: post
+title: "What is a Solve Guide & Why Am I Trying To Build One?"
+date: 2024-03-10
+categories: [101]
+tags: [journal]
+---
+
 ## What is a Solve Guide & Why Am I Trying To Build One? 
 
 Every issue can be solved.
