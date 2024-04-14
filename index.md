@@ -1,5 +1,5 @@
 
-Thank you for visiting the Solve Guide blog. This site is going to be a combination of reference information for Solve Guide users and my thoughts as I build this application. You can read about my motivation for building Solve Guide in a post called [What is a Solve Guide & Why Am I Trying To Build One?](/2024/03/10/What-is-a-Solve-Guide)
+Thank you for visiting the Solve Guide blog. This site is going to be a combination of reference information for Solve Guide users and my thoughts as I build this application. You can read about my motivation for building Solve Guide in a post called [What is a Solve Guide & Why Am I Trying To Build One?](/101/2024/03/10/What-is-a-Solve-Guide)
  
 
 
