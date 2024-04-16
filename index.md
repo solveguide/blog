@@ -5,18 +5,21 @@ This site is going to be a combination of reference information for Solve Guide 
 
 If you are interested in using Solve Guide when it is ready enter your email in the sidebar and hit **Subscribe** to get updates.
  
+You can find additional posts and articles organized below:
 
-
-You can find additional posts and articles organized below
-
-{% assign categories = site.posts | map: 'category' | uniq %}
-{% for category in categories %}
-  <h3>{{ category }}</h3>
-  {% for post in site.posts %}
-    {% if post.category == category %}
-      <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
-    {% endif %}
-  {% endfor %}
+<h4>Solve Guide 101</h4>
+{% for post in site.posts %}
+  {% if post.category == "101" %}
+    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+  {% endif %}
 {% endfor %}
+
+<h4>FAQs</h4>
+{% for post in site.posts %}
+  {% if post.category == "FAQ" %}
+    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+  {% endif %}
+{% endfor %}
+
 
 
