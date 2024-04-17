@@ -7,6 +7,7 @@ If you are interested in using Solve Guide when it is ready enter your email in 
  
 You can find additional posts and articles organized below:
 
+{% raw %}
 <h4>Solve Guide 101</h4>
 {% for post in site.posts %}
   {% if post.categories contains "101" %}
@@ -21,7 +22,7 @@ You can find additional posts and articles organized below:
     <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
   {% endif %}
 {% endfor %}
-
+{% endraw %}
 
 
 
