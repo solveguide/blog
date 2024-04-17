@@ -9,14 +9,14 @@ You can find additional posts and articles organized below:
 
 <h4>Solve Guide 101</h4>
 {% for post in site.posts %}
-  {% if post.category == "101" %}
+  {% if post.categories == "101" %}
     <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
   {% endif %}
 {% endfor %}
 
 <h4>FAQs</h4>
 {% for post in site.posts %}
-  {% if post.category == "FAQ" %}
+  {% if post.categories == "FAQ" %}
     <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
   {% endif %}
 {% endfor %}
